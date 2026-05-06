@@ -13,8 +13,6 @@ env.bak/
 venv.bak/
 
 # Models and Weights
-*.pt
-*.pth
 runs/
 
 # Datasets and Media
