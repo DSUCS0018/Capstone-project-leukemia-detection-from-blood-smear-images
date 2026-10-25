@@ -4,7 +4,7 @@
 
 LeukoAnalyze Pro is a premium, AI-powered Streamlit dashboard designed to automate the screening of peripheral blood smear images. It integrates state-of-the-art computer vision models (YOLO & Vision Transformers) to detect, classify, and morphology-profile individual blood cells, culminating in a professional, clinical-grade diagnostic report.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600?text=LeukoAnalyze+Pro+Dashboard)
+
 
 ## ✨ Core Features
 
